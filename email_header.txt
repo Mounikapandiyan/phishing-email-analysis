@@ -1,0 +1,16 @@
+Return-Path: <alert@secure-paypal.com>
+Received: from unknownserver1243.com (185.231.210.77)
+    by mail.yourserver.com with ESMTP id 8432HFJD
+    Tue, 09 Dec 2025 10:32:14 +0530
+From: PayPal Support <security-alert@secure-paypal.com>
+To: mounikaapandiyan@gmail.
+Subject: Urgent: Your PayPal Account Will Be Limited in 24 Hours!
+Message-ID: <394857349857349857@mail.secure-paypal.com>
+DKIM-Signature: NONE
+SPF: FAIL (secure-paypal.com: domain does not designate 185.231.210.77)
+DMARC: FAIL
+
+Authentication-Results:
+   spf=fail smtp.mailfrom=secure-paypal.com
+   dkim=none
+   dmarc=fail action=reject header.from=secure-paypal.com

@@ -1,0 +1,15 @@
+From: PayPal Support <security-alert@secure-paypal.com>
+To: mounikaapandiyan@gmail.com
+Subject: Urgent: Your PayPal Account Will Be Limited in 24 Hours!
+
+Dear Customer,
+
+We noticed suspicious activity on your PayPal account. For your security, you must verify your details immediately. If you do not verify within 24 hours, your account will be permanently limited.
+
+Click the link below to restore access:
+https://paypal.com.secure-login-verification-alert.xyz/secure
+
+Failure to act may result in loss of access and restricted payments.
+
+Thank you,
+PayPal Security Team
